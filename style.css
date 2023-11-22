@@ -1,0 +1,26 @@
+body {
+  background-color: rgb(197, 130, 238);
+  margin: auto;
+  padding: 0;
+  font-family: "Playpen Sans", cursive;
+}
+
+.cong {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.cong h1 {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.cong p {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.picture {
+  text-align: center;
+  margin-bottom: 20px;
+}
